@@ -10,7 +10,7 @@ Being part of the Landry clan, high expectations were always put on him. However
 - [[Astrayna/Landry\|Landry]] clan
 - [[Astrayna/The lab\|The lab]]
 # Physical Characteristics
-![arledge turnaround.png](/img/user/arledge%20turnaround.png)
+![z arledge.png](/img/user/Astrayna/z%20arledge.png)
 # General information
 ## Nervous habits
 - Rambling

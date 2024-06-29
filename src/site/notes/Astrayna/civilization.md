@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/astrayna/civilization/"}
 ---
 
-
 # History
+
+# Affiliations 
+
 # Plot importance
+
 ## *Related pages*
 [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 [[Astrayna/Caelus\|Caelus]]

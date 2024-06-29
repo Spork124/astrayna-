@@ -21,6 +21,6 @@
 - During this time, [[Astrayna/Arledge\|Arledge]] finds [[Astrayna/files about Caelus\|files about Caelus]] on the computers, but decides not to look into them more before telling him
 - While [[Astrayna/Arledge\|Arledge]] has been looking into the files, [[Astrayna/Caelus\|Caelus]] has been looking at the machines scattered about the [[Astrayna/rundown lab\|rundown lab]]
 - [[Astrayna/Caelus\|Caelus]] is able to figure out some of the smaller ones, and aims to figure out the [[Astrayna/big machine\|big machine]] in the center of the lab
-- One night after looking into the research lab, [[Astrayna/Caelus\|Caelus]] has a [[Astrayna/nightmare\|nightmare]] relating to his past, and is uneasy
+- One night after looking into the research lab, [[Astrayna/Caelus\|Caelus]] has a nightmare relating to his past, and is uneasy
 - [[Astrayna/Arledge\|Arledge]] is able to comfort him, and assures him they're alright
 - [[Astrayna/Caelus\|Caelus]] opens up more to [[Astrayna/Arledge\|Arledge]] about his history

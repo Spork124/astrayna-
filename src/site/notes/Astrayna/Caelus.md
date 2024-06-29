@@ -12,7 +12,7 @@ Caelus was born to a family with his mother and father, who were never good exam
 [[Astrayna/Ortiz\|Ortiz]]
 [[Astrayna/civilization\|civilization]]
 # Physical Characteristics
-![caelus turnaround(1).png](/img/user/caelus%20turnaround(1).png)
+![z caelus.png](/img/user/Astrayna/z%20caelus.png)
 - 6'
 - Hair naturally gray (same color as eyes)
 # General information
@@ -38,7 +38,6 @@ The ability to manipulate air
 ## *Related pages*
 [[Astrayna/civilization\|civilization]]
 [[Astrayna/files about Caelus\|files about Caelus]]
-[[Astrayna/nightmare\|nightmare]]
 [[Astrayna/The lab\|The lab]]
 [[Astrayna/big machine\|big machine]]
 [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]

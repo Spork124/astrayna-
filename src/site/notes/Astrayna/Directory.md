@@ -26,5 +26,4 @@
 [[Astrayna/big machine\|big machine]]
 [[Astrayna/unnatural amalgamations\|unnatural amalgamations]]
 [[Astrayna/files about Caelus\|files about Caelus]]
-[[Astrayna/nightmare\|nightmare]]
 [[Astrayna/power the machines\|power the machines]]

@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/astrayna/astrayna-planet/"}
 ---
 
-# Planet backstory
+# Planet history
 
 # Planet environment
+
+# Plot importance
 
 ## *Related pages*
 [[Astrayna/Caelus\|Caelus]]
