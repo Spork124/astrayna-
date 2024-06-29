@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astrayna/graph-and-directory/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/astrayna/graph-and-directory/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 Characters

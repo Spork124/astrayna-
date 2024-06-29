@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astrayna/astrayna-plot/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/astrayna/astrayna-plot/"}
 ---
 
 Act 1 
