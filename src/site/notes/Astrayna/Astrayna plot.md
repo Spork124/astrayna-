@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/astrayna/astrayna-plot/"}
 ---
 
-Act 1 
+# Act 1 
 - [[Astrayna/Caelus\|Caelus]] and [[Astrayna/Arledge\|Arledge]] get stuck in [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 - They still have contact with their friends at [[Astrayna/The lab\|The lab]]
 - Find a keycard for an unknown place
@@ -24,4 +24,3 @@ Act 1
 - One night after looking into the research lab, [[Astrayna/Caelus\|Caelus]] has a [[Astrayna/nightmare\|nightmare]] relating to his past, and is uneasy
 - [[Astrayna/Arledge\|Arledge]] is able to comfort him, and assures him they're alright
 - [[Astrayna/Caelus\|Caelus]] opens up more to [[Astrayna/Arledge\|Arledge]] about his history
-- 

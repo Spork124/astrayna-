@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/astrayna/nightmare/"}
 ---
 
-*Related pages*
+## *Related pages*
 [[Astrayna/Caelus\|Caelus]]

@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/astrayna/astrayna-planet/"}
 ---
 
-*Related pages*
+# Planet backstory
+
+# Planet environment
+
+## *Related pages*
 [[Astrayna/Caelus\|Caelus]]
 [[Astrayna/civilization\|civilization]]
 [[Astrayna/unnatural amalgamations\|unnatural amalgamations]]
