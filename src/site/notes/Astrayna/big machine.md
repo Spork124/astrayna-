@@ -4,10 +4,10 @@
 
 # Introduced as
 The big machine in the [[Astrayna/rundown lab\|rundown lab]] that [[Astrayna/Caelus\|Caelus]] is set on fixing. 
-
 # Plot importance
 This machine ends up being something that can transport the duo back to [[Astrayna/The lab\|The lab]], however there's only enough power in the emergency generators to transport one person. 
-
+# History
+It was made by the [[Astrayna/Ortiz\|Ortiz]] clan to allow them to travel back and forth between the planets. Since they died out, the machine has become more rundown, and not as safe to use.
 ## *Related pages*
 [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 [[Astrayna/rundown lab\|rundown lab]]
