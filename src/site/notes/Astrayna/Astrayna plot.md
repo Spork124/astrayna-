@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/astrayna/astrayna-plot/"}
 ---
 
-# Act 1 
+# Astrayna (plot)
+## Act 1 
 - [[Astrayna/Caelus\|Caelus]] and [[Astrayna/Arledge\|Arledge]] get stuck in [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 - They still have contact with their friends at [[Astrayna/The lab\|The lab]]
 - Find a keycard for an unknown place

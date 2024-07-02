@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/astrayna/directory/","tags":["gardenEntry"]}
 ---
 
-# Characters
+# Directory
+## Characters
 [[Astrayna/Caelus\|Caelus]]
 [[Astrayna/Arledge\|Arledge]]
 [[Astrayna/The Director\|The Director]]
 [[Astrayna/Kaino\|Kaino]]
 [[Astrayna/Enya\|Enya]]
 [[Astrayna/civilization\|civilization]]
-
-# Plot overview
+[[Astrayna\|Astrayna]] (no page made yet)
+## Plot overview
 [[Astrayna/Astrayna plot\|Astrayna plot]]
-
-# Clans
+## Clans
 [[Astrayna/Landry\|Landry]]
 [[Astrayna/Ortiz\|Ortiz]]
-
-# Places
+[[Astrayna/Achal\|Achal]]
+[[Astrayna/Evander\|Evander]]
+[[Astrayna/Ophelia\|Ophelia]]
+## Places
 [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 [[Astrayna/The lab\|The lab]]
 [[Astrayna/rundown lab\|rundown lab]]
-
-# Misc
+## Misc
 [[Astrayna/big machine\|big machine]]
 [[Astrayna/unnatural amalgamations\|unnatural amalgamations]]
 [[Astrayna/files about Caelus\|files about Caelus]]

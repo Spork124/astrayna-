@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/astrayna/files-about-caelus/"}
 ---
 
-## *Related pages*
+# Files about Caelus
+## Introduced as
+## Plot importance
+### *Related pages*
 [[Astrayna/Caelus\|Caelus]]
 [[Astrayna/rundown lab\|rundown lab]]
 [[Astrayna/Arledge\|Arledge]]

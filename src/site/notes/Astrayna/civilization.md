@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/astrayna/civilization/"}
 ---
 
-# History
+# Civilization
+## History
 
-# Affiliations 
+## Affiliations 
 
-# Plot importance
+## Plot importance
 
-## *Related pages*
+### *Related pages*
 [[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
 [[Astrayna/Caelus\|Caelus]]
 [[Astrayna/rundown lab\|rundown lab]]
