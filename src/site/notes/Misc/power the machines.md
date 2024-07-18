@@ -8,5 +8,5 @@ Those with magic can channel their energy through it in order to give power/ener
 ## How it's used in the story
 During Act 1, Arledge uses this in order to power the [[Places/rundown lab\|rundown lab]] and get information from it. He's able to access the files and records stored in the computers. Caelus also attempts it in order to put less load on Arledge, and is able to, but for much shorter amounts of time than Arledge is.
 ### *Related pages*
-[[Characters/Arledge\|Arledge]]
-[[Places/rundown lab\|rundown lab]]
+*[[Characters/Arledge\|Arledge]]*
+*[[Places/rundown lab\|rundown lab]]*

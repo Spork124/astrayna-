@@ -10,8 +10,8 @@
 ## Plot importance
 
 ### *Related pages*
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
-[[Characters/Caelus\|Caelus]]
-[[Places/rundown lab\|rundown lab]]
-[[Misc/unnatural amalgamations\|unnatural amalgamations]]
-[[Clans/Ortiz\|Ortiz]]
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*
+*[[Characters/Caelus\|Caelus]]*
+*[[Places/rundown lab\|rundown lab]]*
+*[[Misc/unnatural amalgamations\|unnatural amalgamations]]*
+*[[Clans/Ortiz\|Ortiz]]*

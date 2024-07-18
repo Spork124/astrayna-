@@ -10,6 +10,6 @@ This machine ends up being something that can transport the duo back to [[Places
 ## History
 It was made by the [[Clans/Ortiz\|Ortiz]] clan to allow them to travel back and forth between the planets. Since they died out, the machine has become more rundown, and not as safe to use.
 ### *Related pages*
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
-[[Places/rundown lab\|rundown lab]]
-[[Clans/Ortiz\|Ortiz]]
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*
+*[[Places/rundown lab\|rundown lab]]*
+*[[Clans/Ortiz\|Ortiz]]*

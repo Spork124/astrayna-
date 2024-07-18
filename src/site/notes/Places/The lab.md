@@ -10,10 +10,10 @@ Home base of the cast, helps the cast learn about [[Places/Astrayna (planet)\|As
 # Images
 ![lab map.png](/img/user/pngs/lab%20map.png)
 ### *Related pages*
-[[Characters/Caelus\|Caelus]]
-[[Characters/Arledge\|Arledge]]
-[[Characters/The Director\|The Director]]
-[[Characters/Kaino\|Kaino]]
-[[Characters/Enya\|Enya]]
-[[Important items/big machine\|big machine]]
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
+*[[Characters/Caelus\|Caelus]]*
+*[[Characters/Arledge\|Arledge]]*
+*[[Characters/The Director\|The Director]]*
+*[[Characters/Kaino\|Kaino]]*
+*[[Characters/Enya\|Enya]]*
+*[[Important items/big machine\|big machine]]*
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*

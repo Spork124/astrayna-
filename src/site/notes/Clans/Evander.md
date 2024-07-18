@@ -9,8 +9,8 @@ The Evander clan controlled fire and temperature. They were the main fighters du
 As with the other clans, they died out due to the [[Clans/Landry\|Landry]] clan's brutality. They store their embryos on a planet called [[Devrim\|Devrim]].
 ## Typical traits
 ### *Related pages*
-[[Clans/Landry\|Landry]]
-[[Clans/Ortiz\|Ortiz]]
-[[Clans/Achal\|Achal]]
-[[Clans/Ophelia\|Ophelia]]
-[[Devrim\|Devrim]]
+*[[Clans/Landry\|Landry]]*
+*[[Clans/Ortiz\|Ortiz]]*
+*[[Clans/Achal\|Achal]]*
+*[[Clans/Ophelia\|Ophelia]]*
+*[[Devrim\|Devrim]]*

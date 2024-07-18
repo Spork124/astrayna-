@@ -29,8 +29,8 @@ Kaino spends the story helping the lab, and doing what she can to ensure safety 
 ## Abilities/Magic
 General enhanced comprehension. This allows her to learn languages very quickly, and read people's emotions and intents very well. 
 ### *Related pages*
-[[Characters/Enya\|Enya]]
-[[Characters/Arledge\|Arledge]]
-[[Characters/Caelus\|Caelus]]
-[[Places/The lab\|The lab]]
-[[Characters/The Director\|The Director]]
+*[[Characters/Enya\|Enya]]*
+*[[Characters/Arledge\|Arledge]]*
+*[[Characters/Caelus\|Caelus]]*
+*[[Places/The lab\|The lab]]*
+*[[Characters/The Director\|The Director]]*

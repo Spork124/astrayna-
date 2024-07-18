@@ -80,4 +80,16 @@
 - Right before he gets sent back, [[Characters/Caelus\|Caelus]] sees the files flash before him
 	- The computers are going haywire from all the energy being exerted to power the machine, and start flashing a bunch of different stuff
 	- Caelus is shocked by these, but assumes Arledge hasn't seen them
+	- Caelus has the communicator device on him when he's sent back
 ## Act 1a
+- [[Characters/Caelus\|Caelus]] tries returning to where he and [[Characters/Arledge\|Arledge]] got transported to [[Places/Astrayna (planet)\|Astrayna (planet)]]
+	- As he gets up, he notices a sharp pain going up his right arm, along with a slight sense of numbness
+	- Everyone from the lab follows him
+- Once [[Characters/Caelus\|Caelus]] gets there, he is unable to find a way back to [[Places/Astrayna (planet)\|Astrayna (planet)]]
+- Everyone from [[Places/The lab\|The lab]] takes him back\
+- [[Characters/Enya\|Enya]] asks what happened
+- [[Characters/Caelus\|Caelus]] explains, and says he needs to recreate the [[Important items/big machine\|big machine]] to get back
+- [[Characters/Kaino\|Kaino]] insists he gets his arm checked out first, which he does
+- Upon going to the doctor, [[Characters/Caelus\|Caelus]] finds out that his arm suffered nerve damage
+	- When traveling between planets is preformed with equipment that has not been kept up on or made well, there is a high chance for nerve damage to occur.
+- 

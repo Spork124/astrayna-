@@ -13,9 +13,9 @@ In the years after the purges, the Arledge clan flourished, getting by with a ha
 - Needing glasses
 - Larger hands
 ### *Related pages*
-[[Characters/Arledge\|Arledge]]
-[[Clans/Ortiz\|Ortiz]]
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
-[[Clans/Achal\|Achal]]
-[[Clans/Evander\|Evander]]
-[[Clans/Ophelia\|Ophelia]]
+*[[Characters/Arledge\|Arledge]]*
+*[[Clans/Ortiz\|Ortiz]]*
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*
+*[[Clans/Achal\|Achal]]*
+*[[Clans/Evander\|Evander]]*
+*[[Clans/Ophelia\|Ophelia]]*

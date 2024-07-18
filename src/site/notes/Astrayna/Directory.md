@@ -40,5 +40,5 @@
 *[[Clans/Ophelia\|Ophelia]]*
 *[[Clans/Evander\|Evander]]*
 *[[Clans/Achal\|Achal]]*
-*changes to directory format*
-
+*changes to directory format
+[[Astrayna/Astrayna (plot)\|Astrayna (plot)]]

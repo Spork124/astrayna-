@@ -37,14 +37,14 @@ Caelus was born to a family with his mother and father, who were never good exam
 The ability to manipulate air
 
 ### *Related pages*
-[[Characters/civilization\|civilization]]
-[[Important items/files about Caelus\|files about Caelus]]
-[[Places/The lab\|The lab]]
-[[Important items/big machine\|big machine]]
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
-[[Characters/Kaino\|Kaino]]
-[[Characters/Enya\|Enya]]
-[[Characters/The Director\|The Director]]
-[[Clans/Ortiz\|Ortiz]]
+*[[Characters/civilization\|civilization]]*
+*[[Important items/files about Caelus\|files about Caelus]]*
+*[[Places/The lab\|The lab]]*
+*[[Important items/big machine\|big machine]]*
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*
+*[[Characters/Kaino\|Kaino]]*
+*[[Characters/Enya\|Enya]]*
+*[[Characters/The Director\|The Director]]*
+*[[Clans/Ortiz\|Ortiz]]*
 
 

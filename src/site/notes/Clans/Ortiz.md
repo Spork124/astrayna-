@@ -13,10 +13,10 @@ Along with the other clans, they eventually died out due to the [[Clans/Landry\|
 - Fangs
 - Lanky body
 ### *Related pages*
-[[Characters/Caelus\|Caelus]]
-[[Clans/Landry\|Landry]]
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
-[[Characters/civilization\|civilization]]
-[[Clans/Evander\|Evander]]
-[[Clans/Ophelia\|Ophelia]]
-[[Clans/Achal\|Achal]]
+*[[Characters/Caelus\|Caelus]]*
+*[[Clans/Landry\|Landry]]*
+*[[Places/Astrayna (planet)\|Astrayna (planet)]]*
+*[[Characters/civilization\|civilization]]*
+*[[Clans/Evander\|Evander]]*
+*[[Clans/Ophelia\|Ophelia]]*
+*[[Clans/Achal\|Achal]]*

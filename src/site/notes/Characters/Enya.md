@@ -26,8 +26,8 @@ During act 2, Enya finds her friend that went missing when they were 16. She bri
 ## Abilities/Magic
 Enya can manipulate and create fire.
 ### *Related pages*
-[[Characters/Kaino\|Kaino]]
-[[Characters/Caelus\|Caelus]]
-[[Characters/Arledge\|Arledge]]
-[[Characters/The Director\|The Director]]
-[[Places/The lab\|The lab]]
+*[[Characters/Kaino\|Kaino]]*
+*[[Characters/Caelus\|Caelus]]*
+*[[Characters/Arledge\|Arledge]]*
+*[[Characters/The Director\|The Director]]*
+*[[Places/The lab\|The lab]]*

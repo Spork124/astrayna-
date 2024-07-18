@@ -12,9 +12,9 @@ As with the other clans, they died out due to the [[Clans/Landry\|Landry]] clan'
 - Olive undertones in skin
 - Silky, straight hair
 ### *Related pages*
-[[Clans/Ortiz\|Ortiz]]
-[[Clans/Landry\|Landry]]
-[[Clans/Achal\|Achal]]
-[[Clans/Evander\|Evander]]
-[[Eos\|Eos]]
-[[Characters/The Director\|The Director]]
+*[[Clans/Ortiz\|Ortiz]]*
+*[[Clans/Landry\|Landry]]*
+*[[Clans/Achal\|Achal]]*
+*[[Clans/Evander\|Evander]]*
+*[[Eos\|Eos]]*
+*[[Characters/The Director\|The Director]]*

@@ -10,10 +10,10 @@ The planet has seasons, but they're not very extreme. All of them border on the 
 ## Plot importance
 The plant that [[Characters/Caelus\|Caelus]] and [[Characters/Arledge\|Arledge]] get stranded on in the beginning of the story. It is also something [[Characters/The Director\|The Director]] is attempting to get back to, and his motivation for creating [[Places/The lab\|The lab]]. The planet also houses the embryo's of the [[Clans/Ortiz\|Ortiz]] clan, along with a now [[Places/rundown lab\|rundown lab]] they made to ensure the safety of their embryo's.
 ### *Related pages*
-[[Characters/Caelus\|Caelus]]
-[[Characters/civilization\|civilization]]
-[[Misc/unnatural amalgamations\|unnatural amalgamations]]
-[[Places/rundown lab\|rundown lab]]
-[[Important items/big machine\|big machine]]
-[[Characters/The Director\|The Director]]
-[[Clans/Ortiz\|Ortiz]]
+*[[Characters/Caelus\|Caelus]]*
+*[[Characters/civilization\|civilization]]*
+*[[Misc/unnatural amalgamations\|unnatural amalgamations]]*
+*[[Places/rundown lab\|rundown lab]]*
+*[[Important items/big machine\|big machine]]*
+*[[Characters/The Director\|The Director]]*
+*[[Clans/Ortiz\|Ortiz]]*

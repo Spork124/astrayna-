@@ -32,12 +32,12 @@ Arledge starts his character arc pre-story, but it accelerates during it. Pre st
 Ability to manipulate and change the state of water
 
 ### *Related pages*
-[[Important items/files about Caelus\|files about Caelus]]
-[[Misc/power the machines\|power the machines]]
-[[Places/The lab\|The lab]]
-[[Characters/Caelus\|Caelus]]
-[[Characters/Kaino\|Kaino]]
-[[Characters/Enya\|Enya]]
-[[Characters/The Director\|The Director]]
-[[Clans/Landry\|Landry]]
-[[Misc/written language\|written language]]
+*[[Important items/files about Caelus\|files about Caelus]]*
+*[[Misc/power the machines\|power the machines]]*
+*[[Places/The lab\|The lab]]*
+*[[Characters/Caelus\|Caelus]]*
+*[[Characters/Kaino\|Kaino]]*
+*[[Characters/Enya\|Enya]]*
+*[[Characters/The Director\|The Director]]*
+*[[Clans/Landry\|Landry]]*
+*[[Misc/written language\|written language]]*
