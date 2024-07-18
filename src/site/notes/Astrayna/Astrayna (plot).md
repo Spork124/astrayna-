@@ -21,7 +21,7 @@
 - [[Characters/Caelus\|Caelus]] doesn't take to it well, but eventually opens up a bit
 - While wondering around, the duo find some beasts that seem like an [[Misc/unnatural amalgamations\|unnatural amalgamations]] of the wildlife on the planet
 - They discover that although aggressive, they are very unstable and easy to kill
-	- Arledge finds that the amalgamations were bread for aggression and reproduction
+	- Arledge finds that the amalgamations were bred for aggression and reproduction
 - The monsters mostly lurk around the [[Places/rundown lab\|rundown lab]], leading the duo to assume they're put there to ensure no one gets in
 - The duo try to use the [[Places/rundown lab\|rundown lab]] to find a way home, but there isn't a way to power it on well
 - [[Characters/Arledge\|Arledge]] is able to [[Misc/power the machines\|power the machines]] for short bursts of time, but it takes a lot of energy for him

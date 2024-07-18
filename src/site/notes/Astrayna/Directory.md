@@ -20,9 +20,13 @@
 [[Clans/Evander\|Evander]]
 [[Clans/Ophelia\|Ophelia]]
 ## Places
-[[Places/Astrayna (planet)\|Astrayna (planet)]]
 [[Places/The lab\|The lab]]
 [[Places/rundown lab\|rundown lab]]
+### Planets
+[[Places/Astrayna (planet)\|Astrayna (planet)]]
+[[Eos\|Eos]] (page not made yet)
+[[Devrim\|Devrim]] (page not made yet)
+[[Nityam\|Nityam]] (page not made yet)
 ## Important Items
 [[Important items/big machine\|big machine]]
 [[Important items/files about Caelus\|files about Caelus]]
@@ -30,3 +34,11 @@
 [[Misc/unnatural amalgamations\|unnatural amalgamations]]
 [[Misc/power the machines\|power the machines]]
 [[Misc/written language\|written language]]
+
+### *Most recent updates*
+*[[Important items/files about Caelus\|files about Caelus]]*
+*[[Clans/Ophelia\|Ophelia]]*
+*[[Clans/Evander\|Evander]]*
+*[[Clans/Achal\|Achal]]*
+*changes to directory format*
+
