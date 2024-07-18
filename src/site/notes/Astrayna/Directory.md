@@ -4,27 +4,29 @@
 
 # Directory
 ## Characters
-[[Astrayna/Caelus\|Caelus]]
-[[Astrayna/Arledge\|Arledge]]
-[[Astrayna/The Director\|The Director]]
-[[Astrayna/Kaino\|Kaino]]
-[[Astrayna/Enya\|Enya]]
-[[Astrayna/civilization\|civilization]]
+[[Characters/Caelus\|Caelus]]
+[[Characters/Arledge\|Arledge]]
+[[Characters/The Director\|The Director]]
+[[Characters/Kaino\|Kaino]]
+[[Characters/Enya\|Enya]]
+[[Characters/civilization\|civilization]]
 [[Astrayna\|Astrayna]] (no page made yet)
 ## Plot overview
-[[Astrayna/Astrayna plot\|Astrayna plot]]
+[[Astrayna/Astrayna (plot)\|Astrayna (plot)]]
 ## Clans
-[[Astrayna/Landry\|Landry]]
-[[Astrayna/Ortiz\|Ortiz]]
-[[Astrayna/Achal\|Achal]]
-[[Astrayna/Evander\|Evander]]
-[[Astrayna/Ophelia\|Ophelia]]
+[[Clans/Landry\|Landry]]
+[[Clans/Ortiz\|Ortiz]]
+[[Clans/Achal\|Achal]]
+[[Clans/Evander\|Evander]]
+[[Clans/Ophelia\|Ophelia]]
 ## Places
-[[Astrayna/Astrayna (planet)\|Astrayna (planet)]]
-[[Astrayna/The lab\|The lab]]
-[[Astrayna/rundown lab\|rundown lab]]
+[[Places/Astrayna (planet)\|Astrayna (planet)]]
+[[Places/The lab\|The lab]]
+[[Places/rundown lab\|rundown lab]]
+## Important Items
+[[Important items/big machine\|big machine]]
+[[Important items/files about Caelus\|files about Caelus]]
 ## Misc
-[[Astrayna/big machine\|big machine]]
-[[Astrayna/unnatural amalgamations\|unnatural amalgamations]]
-[[Astrayna/files about Caelus\|files about Caelus]]
-[[Astrayna/power the machines\|power the machines]]
+[[Misc/unnatural amalgamations\|unnatural amalgamations]]
+[[Misc/power the machines\|power the machines]]
+[[Misc/written language\|written language]]

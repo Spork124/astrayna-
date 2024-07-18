@@ -1,0 +1,83 @@
+---
+{"dg-publish":true,"permalink":"/astrayna/astrayna-plot/"}
+---
+
+# Astrayna (plot)
+## Act 1 
+- [[Characters/Caelus\|Caelus]] and [[Characters/Arledge\|Arledge]] get stuck in [[Places/Astrayna (planet)\|Astrayna (planet)]]
+- They still have contact with their friends at [[Places/The lab\|The lab]]
+- Find a keycard for an unknown place
+- Find a [[Characters/civilization\|civilization]] that doesn't like them too much
+- The [[Characters/civilization\|civilization]] accidentally tells them what the keycard is for, although they don't know that the duo has it
+- The [[Characters/civilization\|civilization]] worships the building the keycard allows access to
+- The duo gets into the building and discovers it's a [[Places/rundown lab\|rundown lab]]
+- The [[Misc/written language\|written language]] is different from their home one
+- Arledge recognizes the base structure, and tries to work it out
+	- It takes him most of act 1 to get the majority of the language figured out
+- They go consistently for a while, but have to take a break due to the [[Characters/civilization\|civilization]] getting suspicious of them
+	- Arledge helps Caelus learn what they know of the language, which is a core bonding moment for them
+- During the new downtime [[Characters/Arledge\|Arledge]] tries to get to know [[Characters/Caelus\|Caelus]]
+	- Arledge starts by opening up about himself first, and then asking Caelus questions
+- [[Characters/Caelus\|Caelus]] doesn't take to it well, but eventually opens up a bit
+- While wondering around, the duo find some beasts that seem like an [[Misc/unnatural amalgamations\|unnatural amalgamations]] of the wildlife on the planet
+- They discover that although aggressive, they are very unstable and easy to kill
+	- Arledge finds that the amalgamations were bread for aggression and reproduction
+- The monsters mostly lurk around the [[Places/rundown lab\|rundown lab]], leading the duo to assume they're put there to ensure no one gets in
+- The duo try to use the [[Places/rundown lab\|rundown lab]] to find a way home, but there isn't a way to power it on well
+- [[Characters/Arledge\|Arledge]] is able to [[Misc/power the machines\|power the machines]] for short bursts of time, but it takes a lot of energy for him
+	- Caelus tell Arledge to make sure he doesn't wear himself out, joking about how he wouldn't be able to get them food if Arledge was down
+	- Caelus adds on that he's being genuine, and would worry about Arledge if he overdid it
+- While powering the machines, [[Characters/Arledge\|Arledge]] finds [[Important items/files about Caelus\|files about Caelus]] on the computers, but decides to look into them more before telling [[Characters/Caelus\|Caelus]]
+- While [[Characters/Arledge\|Arledge]] has been looking into the files, [[Characters/Caelus\|Caelus]] has been looking at the machines scattered about the [[Places/rundown lab\|rundown lab]]
+- [[Characters/Caelus\|Caelus]] is able to figure out some of the smaller ones, and aims to figure out the [[Important items/big machine\|big machine]] in the center of the lab
+- [[Characters/Caelus\|Caelus]] asks [[Characters/Arledge\|Arledge]] if he's autistic, which they are
+	- Arledge is disappointed Caelus could tell, thinking he's "gotten better" to the point most people wouldn't be able to tell
+	- Caelus educated Arledge on what autism actually is
+	- Caelus makes it clear to Arledge that it doesn't make him think poorly of them, it just helps him know better what to expect with communication and how to communicate
+		- Also makes it clear that he still sees them as an individual, and not just an autism label
+- [[Characters/Caelus\|Caelus]] tells [[Characters/Arledge\|Arledge]] that he's 90% sure he has ADHD
+	- In researching ADHD, Caelus also looked into autism, which is why he spotted it in Arledge and has knowledge about it
+- One night after looking into the research lab, [[Characters/Caelus\|Caelus]] has a nightmare relating to his past, and is uneasy
+	- It hasn't been uncommon for him to have nightmares in the past about the day his mother died, but they haven't happened in a while
+	- He's disoriented when he wakes up
+- [[Characters/Arledge\|Arledge]] is able to comfort him, and assures him they're alright
+- [[Characters/Caelus\|Caelus]] opens up more to [[Characters/Arledge\|Arledge]] about his past
+	- He tells Arledge about his father murdering his mother due to him not being his father's child
+	- His father told him he would get him next, to get rid of her completely
+	- This is when Caelus figures out how to fly short distances
+	- Arledge is one of the first people he's opened up to about what happened to his mother
+- Having opened up, [[Characters/Caelus\|Caelus]] is able to relax more around [[Characters/Arledge\|Arledge]]
+- [[Characters/Arledge\|Arledge]] realizes their feelings for [[Characters/Caelus\|Caelus]]
+	- Caelus was able to give Arledge a new perspective on things, and was able to make him want to change what remained of his superiority complex
+	- Caelus was able to give a new perspective on how messed up the stuff their clan did to them was
+	- Caelus is one of the first people they've gotten to know that sees him for who he is, not who they could be or who he wants them to be
+		- Also one of the first people to meet them where they're at, instead of expecting him to be the only one to change
+
+- [[Characters/Caelus\|Caelus]] tries to [[Misc/power the machines\|power the machines]] 
+- He uses too much energy and is down for the day
+- [[Characters/Arledge\|Arledge]] scolds him for overdoing it
+	- He's clearly doing it from a place of caring instead of annoyance
+	- Caelus tries to downplay his fatigue
+- The two go home and [[Characters/Arledge\|Arledge]] takes care of Caelus for the day
+	- Arledge tries to insist that Caelus rest for an extra half day, but Caelus is able to convince them he's fine
+- [[Characters/Caelus\|Caelus]] realizes his feelings for [[Characters/Arledge\|Arledge]]
+	- Although Caelus has had friendships and relationships in the past where he even lived with the person (trying to get away from his dad), Arledge feels different because he's not just relying on Arledge, but Arledge is relying on him too, so there's no imbalance there
+	- They also both know they could get by without each other, which adds to Caelus's feelings as, even if Arledge would feel obligated to help him in Astrayna to some degree, he's clearly doing more than that because he wants to
+- [[Characters/Caelus\|Caelus]] decides to look at the [[Important items/big machine\|big machine]], suspecting it could be their way home
+- From being able to read more of the [[Misc/written language\|written language]], he finds this to be true
+- The [[Important items/big machine\|big machine]] only has enough power to send one person through
+	- There are backup generators enough for 3 people, but the energy has drained from it sitting there for so many years, and is now down to one person
+- [[Characters/Caelus\|Caelus]] and [[Characters/Arledge\|Arledge]] decide not to send anyone through
+	- They figure it's better to have two people here instead of one person fending for themself
+- [[Characters/Arledge\|Arledge]] looks more into the [[Important items/files about Caelus\|files about Caelus]] while [[Characters/Caelus\|Caelus]] is distracted with the [[Important items/big machine\|big machine]]
+- Being able to read more of the [[Misc/written language\|written language]] now, [[Characters/Arledge\|Arledge]] finds that whoever made these files had a lot of information on [[Characters/Caelus\|Caelus]]
+- [[Characters/Arledge\|Arledge]] finds the [[Important items/files about Caelus\|files about Caelus]] say [[Characters/Caelus\|Caelus]] is part of the [[Clans/Ortiz\|Ortiz]] clan
+- The next time [[Characters/Caelus\|Caelus]] and [[Characters/Arledge\|Arledge]] go to the [[Places/rundown lab\|rundown lab]], [[Characters/Arledge\|Arledge]] sends [[Characters/Caelus\|Caelus]] back to [[Places/The lab\|The lab]]
+	- Arledge is concerned someone who is trying to hurt Caelus is there, such as his dad or someone affiliated with him, or even the Landry clan. They decide he's safer at the lab with more people and stability
+- [[Characters/Caelus\|Caelus]] puts up a fight, but ultimately [[Characters/Arledge\|Arledge]] overpowers him
+	- Although Caelus has gotten a lot stronger while they're on Astrayna, Arledge has also been able to find ways to get stronger that work better for him
+	- It's much more of an even match than it would've been at the beginning of the story
+- Right before he gets sent back, [[Characters/Caelus\|Caelus]] sees the files flash before him
+	- The computers are going haywire from all the energy being exerted to power the machine, and start flashing a bunch of different stuff
+	- Caelus is shocked by these, but assumes Arledge hasn't seen them
+## Act 1a
