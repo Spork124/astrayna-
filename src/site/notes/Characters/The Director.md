@@ -12,7 +12,7 @@ He roamed the universe for centuries, going wherever he wanted whenever he wante
 [[Places/The lab\|The lab]]
 [[Clans/Landry\|Landry]]
 # Physical Characteristics
-![z director.png](/img/user/pngs/z%20director.png)
+![director.png](/img/user/pngs/director.png)
 - Age not kept track of
 - 6'3
 - Not human

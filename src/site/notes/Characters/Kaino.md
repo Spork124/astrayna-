@@ -10,7 +10,7 @@ Kaino spends the story helping the lab, and doing what she can to ensure safety 
 ## Affiliations
 [[Places/The lab\|The lab]]
 ## Physical Characteristics
-![z kaino.png](/img/user/pngs/z%20kaino.png)
+![kaino.png](/img/user/pngs/kaino.png)
 - 23
 - 5'6
 ## General information

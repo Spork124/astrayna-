@@ -8,7 +8,7 @@ The lab is the first setting we see, and is where a bulk of the story takes plac
 ## Plot importance
 Home base of the cast, helps the cast learn about [[Places/Astrayna (planet)\|Astrayna (planet)]], [[Important items/big machine\|big machine]], and many other important things. It is also where all of them first met each other.
 # Images
-![z lab map.png](/img/user/pngs/z%20lab%20map.png)
+![lab map.png](/img/user/pngs/lab%20map.png)
 ### *Related pages*
 [[Characters/Caelus\|Caelus]]
 [[Characters/Arledge\|Arledge]]

@@ -11,7 +11,7 @@ Arledge starts his character arc pre-story, but it accelerates during it. Pre st
 - [[Clans/Landry\|Landry]] clan
 - [[Places/The lab\|The lab]]
 ## Physical Characteristics
-![z arledge.png](/img/user/pngs/z%20arledge.png)
+![arledge.png](/img/user/pngs/arledge.png)
 ## General information
 ### Nervous habits
 - Rambling

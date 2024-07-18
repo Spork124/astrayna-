@@ -13,7 +13,7 @@ Caelus was born to a family with his mother and father, who were never good exam
 [[Clans/Ortiz\|Ortiz]]
 [[Characters/civilization\|civilization]]
 ## Physical Characteristics
-![z caelus.png](/img/user/pngs/z%20caelus.png)
+![caelus.png](/img/user/pngs/caelus.png)
 - 6'
 - Hair naturally gray (same color as eyes)
 ## General information

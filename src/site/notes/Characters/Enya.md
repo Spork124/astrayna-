@@ -10,7 +10,7 @@ During act 2, Enya finds her friend that went missing when they were 16. She bri
 ## Affiliations
 [[Places/The lab\|The lab]]
 # Physical Characteristics
-![z enya.png](/img/user/pngs/z%20enya.png)
+![enya.png](/img/user/pngs/enya.png)
 - 22
 - 5'10
 ## General information
