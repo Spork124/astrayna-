@@ -31,7 +31,7 @@ Caelus was born to a family with his mother and father, who were never good exam
 - Authority
 ### Misc
 - He/him pronouns
-- Had ADHD. Not diagnosed but aware of it
+- Has ADHD. Not diagnosed but aware of it
 
 ## Abilities/Magic
 The ability to manipulate air
