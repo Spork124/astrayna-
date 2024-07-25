@@ -36,6 +36,7 @@
 [[Misc/written language\|written language]]
 
 ### *Most recent updates (7/24/2024)*
-*[[Clans/Evander\|Evander]]
-[[Clans/Achal\|Achal]]
+*[[Clans/Evander\|Evander]] (added traits)
+[[Clans/Achal\|Achal]] (added traits)
+[[Astrayna/Astrayna (plot)\|Astrayna (plot)]] (finished act 1a)
 Added birthdays for main cast*

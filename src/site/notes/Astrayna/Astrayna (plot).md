@@ -5,7 +5,7 @@
 # Astrayna (plot)
 ## Act 1 
 - [[Characters/Caelus\|Caelus]] and [[Characters/Arledge\|Arledge]] get stuck in [[Places/Astrayna (planet)\|Astrayna (planet)]]
-- They still have contact with their friends at [[Places/The lab\|The lab]]
+- They still have contact with their friends at [[Places/The lab\|the lab]]
 - Find a keycard for an unknown place
 - Find a [[Characters/civilization\|civilization]] that doesn't like them too much
 - The [[Characters/civilization\|civilization]] accidentally tells them what the keycard is for, although they don't know that the duo has it
@@ -86,10 +86,27 @@
 	- As he gets up, he notices a sharp pain going up his right arm, along with a slight sense of numbness
 	- Everyone from the lab follows him
 - Once [[Characters/Caelus\|Caelus]] gets there, he is unable to find a way back to [[Places/Astrayna (planet)\|Astrayna (planet)]]
-- Everyone from [[Places/The lab\|The lab]] takes him back\
+- Everyone from [[Places/The lab\|the lab]] takes him back\
 - [[Characters/Enya\|Enya]] asks what happened
-- [[Characters/Caelus\|Caelus]] explains, and says he needs to recreate the [[Important items/big machine\|big machine]] to get back
+- [[Characters/Caelus\|Caelus]] explains, and says he needs to recreate the [[Important items/big machine\|transporter machine]] to get back
 - [[Characters/Kaino\|Kaino]] insists he gets his arm checked out first, which he does
 - Upon going to the doctor, [[Characters/Caelus\|Caelus]] finds out that his arm suffered nerve damage
 	- When traveling between planets is preformed with equipment that has not been kept up on or made well, there is a high chance for nerve damage to occur.
-- 
+- Caelus and the others start working on replicating the [[Important items/big machine\|transporter machine]]
+- The [[Clans/Landry\|Landry]] clan asks to talk to Caelus shortly after he arrives
+- They ask him about Arledge
+	- If he's back yet
+	- How they were doing in [[Places/Astrayna (planet)\|Astrayna (planet)]]
+- They ask him about his own past
+- He barely answers
+- Caelus starts opening up to everyone at [[Places/The lab\|The lab]] about his time in [[Places/Astrayna (planet)\|Astrayna (planet)]]
+- He mentions [[Important items/files about Caelus\|the files]] to everyone, and notices [[Characters/The Director\|The Director]] has a strange response to it
+- [[Characters/Caelus\|Caelus]] becomes slightly suspicious of him
+- After about a month, they get the [[Important items/big machine\|transporter]] up and running
+- [[Characters/Caelus\|Caelus]] goes back to [[Places/Astrayna (planet)\|Astrayna (planet)]] to find [[Characters/Arledge\|Arledge]]
+- [[Characters/Caelus\|Caelus]] finds [[Characters/Arledge\|Arledge]] struggling to fight one of the [[Misc/unnatural amalgamations\|unnatural amalgamations]]
+	- The two have been able to easily defeat them for weeks now, even on their own
+- [[Characters/Arledge\|Arledge]] tells [[Characters/Caelus\|Caelus]] that they've been trying to add enough power back to the generators to send themself through the [[Important items/big machine\|transporter]] 
+- [[Characters/Caelus\|Caelus]] takes [[Characters/Arledge\|Arledge]] back to their house in [[Places/Astrayna (planet)\|Astrayna (planet)]] to rest
+- The next day, the two head back to [[Places/The lab\|the lab]]
+## Act 2
