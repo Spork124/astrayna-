@@ -28,6 +28,7 @@ Arledge starts his character arc pre-story, but it accelerates during it. Pre st
 ### Misc
 - They/he pronouns
 - Has an autism diagnosis, but was never taught was autism actually is
+- 10/23/xxxx
 ## Abilities/Magic
 Ability to manipulate and change the state of water
 

@@ -11,6 +11,7 @@ As with the other clans, they died out due to the [[Clans/Landry\|Landry]] clan'
 - Light eyes
 - Olive undertones in skin
 - Silky, straight hair
+- Maturing quickly
 ### *Related pages*
 *[[Clans/Ortiz\|Ortiz]]*
 *[[Clans/Landry\|Landry]]*

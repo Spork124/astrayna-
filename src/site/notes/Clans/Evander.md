@@ -8,6 +8,9 @@ The Evander clan controlled fire and temperature. They were the main fighters du
 ## Fate
 As with the other clans, they died out due to the [[Clans/Landry\|Landry]] clan's brutality. They store their embryos on a planet called [[Devrim\|Devrim]].
 ## Typical traits
+- Fluffy hair
+- Tanned skin
+- Green eyes
 ### *Related pages*
 *[[Clans/Landry\|Landry]]*
 *[[Clans/Ortiz\|Ortiz]]*

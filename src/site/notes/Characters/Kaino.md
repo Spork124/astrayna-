@@ -26,6 +26,7 @@ Kaino spends the story helping the lab, and doing what she can to ensure safety 
 - Large crowds
 ### Misc
 - Any pronouns
+- 03/05/xxxx
 ## Abilities/Magic
 General enhanced comprehension. This allows her to learn languages very quickly, and read people's emotions and intents very well. 
 ### *Related pages*

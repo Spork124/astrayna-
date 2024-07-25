@@ -26,6 +26,7 @@ He roamed the universe for centuries, going wherever he wanted whenever he wante
 ### Misc
 - He/they/it pronouns
 - Real name Amos
+- 01/25/xxxx (he decided it one day)
 ## Abilities/Magic
 - Reality warping
 - Create things out of nothing. If he does this too much the world falls apart

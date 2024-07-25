@@ -23,6 +23,7 @@ During act 2, Enya finds her friend that went missing when they were 16. She bri
 - 
 ### Misc
 - She/her pronouns
+- 05/17/xxxx
 ## Abilities/Magic
 Enya can manipulate and create fire.
 ### *Related pages*

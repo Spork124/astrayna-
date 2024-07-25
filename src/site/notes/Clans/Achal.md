@@ -8,6 +8,9 @@ The Achal were able to move and shape the Earth, along with added or taking away
 ## Fate
 As with the other clans, they died out due to the [[Clans/Landry\|Landry]] clan's attacks. They were able to store their embryos on a planet called [[Nityam\|Nityam]]
 ## Typical traits
+- Good at gardening
+- Sturdy, fast growing nails
+- Thick hair
 ### *Related pages*
 *[[Clans/Landry\|Landry]]*
 *[[Clans/Ortiz\|Ortiz]]*

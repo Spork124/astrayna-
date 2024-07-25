@@ -35,10 +35,7 @@
 [[Misc/power the machines\|power the machines]]
 [[Misc/written language\|written language]]
 
-### *Most recent updates*
-*[[Important items/files about Caelus\|files about Caelus]]*
-*[[Clans/Ophelia\|Ophelia]]*
-*[[Clans/Evander\|Evander]]*
-*[[Clans/Achal\|Achal]]*
-*changes to directory format
-[[Astrayna/Astrayna (plot)\|Astrayna (plot)]]
+### *Most recent updates (7/24/2024)*
+*[[Clans/Evander\|Evander]]
+[[Clans/Achal\|Achal]]
+Added birthdays for main cast*
