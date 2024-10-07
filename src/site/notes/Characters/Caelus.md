@@ -16,6 +16,7 @@ Caelus was born to a family with his mother and father, who were never good exam
 ![caelus.png](/img/user/pngs/caelus.png)
 - 6'
 - Hair naturally gray (same color as eyes)
+- 23
 ## General information
 ### Nervous habits 
 - Compression: curls up into a ball, hugs self, squeezes self/others

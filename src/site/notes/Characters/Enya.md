@@ -13,6 +13,7 @@ During act 2, Enya finds her friend that went missing when they were 16. She bri
 ![enya.png](/img/user/pngs/enya.png)
 - 22
 - 5'10
+- Blue eyes
 ## General information
 ### Nervous habits
 - Getting defensive

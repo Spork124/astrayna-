@@ -13,6 +13,7 @@ Kaino spends the story helping the lab, and doing what she can to ensure safety 
 ![kaino.png](/img/user/pngs/kaino.png)
 - 23
 - 5'6
+- Brown eyes
 ## General information
 ### Nervous habits
 - Hyper anylazing

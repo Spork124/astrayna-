@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/arledge/"}
 ---
 
-# Arledge (he/they)
+# Arledge (they/he)
 ## Backstory
 Being part of the Landry clan, high expectations were always put on him. However, due to their early autism diagnosis, he was considered a lost cause. Unfortunately, there was one person, a part of the higher ups, who saw potential in him. She thought that if she could get rid of the autism, she could create a strong fighter. For obvious reasons, that didn’t happen. They were given until they turned 18 to “meet expectations” or else they would be “placed with people where he had a better opportunity to thrive”. This place was the lab, which he resented at first. However, they grew quite fond of The Lab and the people there, seeing it as a true home and second family. Except for Caelus, the two don’t get along well. Although he enjoys his time at The Lab, he still longs to feel a place of belonging in his family. He joined the lab when he was 18.
 ## Character Arc and Post story
@@ -12,6 +12,10 @@ Arledge starts his character arc pre-story, but it accelerates during it. Pre st
 - [[Places/The lab\|The lab]]
 ## Physical Characteristics
 ![arledge.png](/img/user/pngs/arledge.png)
+- Orange eyes
+- Hair has water-like texture
+- 25
+- 5'10
 ## General information
 ### Nervous habits
 - Rambling
